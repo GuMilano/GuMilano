@@ -1,9 +1,10 @@
 Olá, eu sou Milano 👋
 <br>
-💡 Entrei para o GitHub para explorar, aprender e crescer
-🌱 Atualmente, estou aprendendo tudo 😂
-🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo
-🌐 Meu site pessoal: https://www.linkedin.com/in/gustavo-milano-37b594191/
+<br>
+💡 Entrei para o GitHub para explorar, aprender e crescer<br>
+🌱 Atualmente, estou aprendendo tudo 😂<br>
+🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo<br>
+🌐 Meu site pessoal: https://www.linkedin.com/in/gustavo-milano-37b594191/<br>
 
 
 <!--
