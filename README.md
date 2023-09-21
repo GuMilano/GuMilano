@@ -1,5 +1,5 @@
 Olá, eu sou Milano 👋
-
+<br>
 💡 Entrei para o GitHub para explorar, aprender e crescer
 🌱 Atualmente, estou aprendendo tudo 😂
 🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo
