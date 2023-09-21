@@ -1,4 +1,10 @@
-### Hi there 👋
+Olá, eu sou Milano 👋
+
+💡 Entrei para o GitHub para explorar, aprender e crescer
+🌱 Atualmente, estou aprendendo tudo 😂
+🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo
+🌐 Meu site pessoal: https://www.linkedin.com/in/gustavo-milano-37b594191/
+
 
 <!--
 **GuMilano/GuMilano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
