@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Eu sou Gustavo Milano 👋<br><br>💡 Entrei para o GitHub para explorar, aprender e crescer<br><br>🌱 Atualmente, estou aprendendo tudo 😂<br><br>🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo<br><br>🌐 Meu site pessoal: https://www.linkedin.com/in/gustavo-milano-37b594191/</p>
+<p align="left">Eu sou Gustavo Milano 👋<br><br>💡 Entrei para o GitHub para explorar, aprender e crescer<br><br>🌱 Atualmente, estou aprendendo tudo 😂<br><br>🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo<br></p>
 
 ###
 
