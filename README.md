@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Eu sou Gustavo Milano 👋<br><br>💡 Entrei para o GitHub para explorar, aprender e crescer<br><br>🌱 Atualmente, estou aprendendo tudo 😂<br><br>🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo<br></p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">Eu sou Gustavo Milano 👋<br><br>💡 Entrei para o GitHub para explorar, aprender e crescer<br><br>🌱 Atualmente, estou aprendendo tudo 😂<br><br>🎯 Meu objetivo: facilitar a vida codificando e desenvolvendo<br><br>🌐 Meu site pessoal: https://www.linkedin.com/in/gustavo-milano-37b594191/</p>
 
 ###
 
@@ -23,10 +23,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
 
@@ -55,5 +51,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
