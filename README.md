@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs Desde 2020<br><br>📚  Atualmente sou Pós-Graduado na PUC de Arquitetura de Software, Ciência de Dados e Cybersecurity</p>
+<p align="left">✨ Criando Bugs Desde 2020<br><br>📚  Atualmente sou Pós-Graduado na PUC em Arquitetura de Software, Ciência de Dados e Cybersecurity</p>
 
 ###
 
